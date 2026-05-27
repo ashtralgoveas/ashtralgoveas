@@ -1,16 +1,17 @@
-## Hi 👋, I'm Ashtral
+<div align="center">
 
-<!--
-**ashtralgoveas/ashtralgoveas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ashtral
 
-Here are some ideas to get you started:
+### Frontend Developer passionate about React, Next.js and modern UI engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](www.linkedin.com/in/ashtral-lorien-goveas) • ashtralgoveas@gmail.com
+
+</div>
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,git,github,vscode" />
+</p>
