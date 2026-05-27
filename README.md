@@ -14,14 +14,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/ashtral-lorien-goveas/">
-    LinkedIn
-  </a>
-  •
-  ashtralgoveas@gmail.com
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=ashtralgoveas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
