@@ -24,6 +24,9 @@
 
 <p align="left">
 
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" />
+  <img title="Sass" src="https://skillicons.dev/icons?i=sass" />
   <img title="React" src="https://skillicons.dev/icons?i=react" />
   <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
   <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
