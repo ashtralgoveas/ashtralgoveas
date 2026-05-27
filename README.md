@@ -4,7 +4,25 @@
 
 ### Frontend Developer passionate about React, Next.js and modern UI engineering
 
-[LinkedIn](www.linkedin.com/in/ashtral-lorien-goveas) • ashtralgoveas@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/ashtral-lorien-goveas/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="mailto:ashtralgoveas@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ashtral-lorien-goveas/">
+    LinkedIn
+  </a>
+  •
+  ashtralgoveas@gmail.com
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ashtralgoveas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -13,5 +31,27 @@
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,git,github,vscode" />
+
+  <img title="React" src="https://skillicons.dev/icons?i=react" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+  <img title="Redux" src="https://skillicons.dev/icons?i=redux" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
+  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" />
+
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashtralgoveas&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtralgoveas&theme=tokyonight&hide_border=true" />
+
+</div>
